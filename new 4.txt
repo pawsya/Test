@@ -1,0 +1,101 @@
+
+
+
+
+https://www.youtube.com/watch?v=gBFcBPu1ghU
+1. How to install Windows Via Bootable Pendrive 1:20
+2. Fix Computer Driver Problem 9:19
+3. Fix Restart Computer Problem  12:15
+4. How to unlock or reset forgot computer password  14:26
+5. Fix Computer slow / hang problem 22:24
+6. view connected wifi password in windows computer 24:21
+7. How to connect two pc via lan cable and share data 28:17
+8. How to block websites in computer  33:17
+9. Computer hard disk partition : 37:15
+10. Find Virus in downloaded files 40:23
+11. How to use free vpn  42:58
+12. Downloading softwares for computer 44:27
+
+https://www.catchhow.com/pendrive-bootable-kaise-banaye/
+#1
+window install=
+create bootable pendrive using CMD
+diskpart
+list disk
+select disk 2
+clean
+create partition primary
+select partition 1
+active
+format fs = ntfs quick
+
+window install steps
+BIOS steps
+F2 press
+boot
+REMOVEABLE DEVICES
+WINDOW STEP - ENGLISH - INSTALL NOW - UPGRADE INSTALL -
+HARDDISK PARTITION - DRIVE PARTITION 3 - NEXT
+USE EXPRESS SETTING
+
+#2
+DRIVER INSTALL - driver pack install
+
+#3
+restart - window - setting - advanved system setting - advance - staet up recovery - setting - automatically restart without click
+
+#4
+reset for computer password
+ 
+#5 
+system hang
+
+#6
+view saved Wifi password
+netsh wlan show profile name=DD31_IT key=clear
+
+#7
+Recover Deleted Data
+
+#8
+Connect Two PC via LAN Cable
+
+#9
+How to Block Website
+C:\Windows\System32\drivers\etc
+
+#10
+Hard Disk partition
+
+#11
+Virus find Kare
+
+#12
+How to use vpn
+
+#13
+software download 
+FileHippo
+https://filehippo.com/popular/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
