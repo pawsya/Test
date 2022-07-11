@@ -1,0 +1,58 @@
+
+
+
+1)what is syntax ? in c
+
+#include<Stdio.h>
+#include<Conio.h>
+
+Main()
+{
+
+
+
+}
+
+2)Data Type and Variable
+
+1.Primary Data type
+char int float double
+
+2.Secondary Data type
+array pointer Structure etc.
+
+Datatype of variable
+Char = 1byte
+ ex: a,b,c
+ 
+int = 2byte 
+ex:123
+
+Float = 4byte 
+ex:1.2 or 2.2
+
+Double = 8byte 
+
+syntax for variable Declare
+Example = int x;
+		  int Num;
+		  
+3)Important Chize Yaad Rakhe
+
+Printf = use to print the charatcer, Result or output
+Scanf = use to Read charatcer or a Value Assign
+	
+	int = %d, Char = %c, String = %s, Float = %f
+	
+Semicolon = ;
+Open & close Braces =
+{
+
+}
+
+Clrscr(); clear screen
+Getch(); Hold Screen
+	
+	
+		  
+		  
