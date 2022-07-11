@@ -1,0 +1,47 @@
+
+javaScript = Car Engine + interior logic
+
+Html = Hypertext text markup language(dhacha)
+1)
+<!doctype html>
+<html>
+<head>
+-----
+</head>
+<body>
+-----
+</body>
+</html>
+
+2)
+
+			<table>
+		<tr>	    <th>
+		      <td>
+			  
+3)
+<form>
+<input>
+<button>
+
+Css = Cascading Style Sheets(design)
+
+1.inline css 
+
+<p style="color :red;>hello</p>
+
+2.internal css
+
+<head>
+<style>
+-----
+-----
+</style>
+</head>
+
+3.external css
+
+<head>
+<link rel="stylesheet" href="file.css">
+</head>
+
